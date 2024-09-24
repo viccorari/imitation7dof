@@ -2,7 +2,7 @@
 
 Thesis code: “Imitation Learning and Dimensionality Reduction for the Resolution of Inverse Kinematics in Anthropomorphic Robotic Arms”\
 
-The code is made in Python 2.7, basically uses the [Vpython Version 6 library: ](https:vpython.org/contents/download_windows.html)
+The code is made in Python 2.7, basically uses the Vpython Version 6 library: https:vpython.org/contents/download_windows.html
 
 # Control keys
 
